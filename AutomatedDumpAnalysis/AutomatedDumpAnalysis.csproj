@@ -49,6 +49,7 @@
     <Compile Include="Analyses\CountStrings.cs" />
     <Compile Include="Analyses\DumpByteArrays.cs" />
     <Compile Include="Analyses\DumpCharArrays.cs" />
+    <Compile Include="Analyses\GenerationStatistics.cs" />
     <Compile Include="Analyses\IAnalyse.cs" />
     <Compile Include="Analyses\RootedObjects.cs" />
     <Compile Include="Program.cs" />

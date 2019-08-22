@@ -31,6 +31,7 @@ namespace AutomatedDumpAnalysis
             dict[4] = new DumpCharArrays();
             dict[5] = new RootedObjects();
             dict[6] = new TypesOnTheLoh();
+            dict[7] = new GenerationStatistics();
 
             PresentAnalysers(dict);
 
